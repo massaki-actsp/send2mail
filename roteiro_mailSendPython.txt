@@ -1,0 +1,13 @@
+G:\
+cd G:\mailSendPython
+conda activate streamlit
+
+streamlit run Send2Mailpython.py
+
+
+#Necessario instalar pois o pandas faz uso dela para ler o arq excel
+pip install openpyxl
+
+python.exe -m pip install --upgrade pip
+
+pip install github

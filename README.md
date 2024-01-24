@@ -1,1 +1,1 @@
-# send2mail
+# Send2Mail
